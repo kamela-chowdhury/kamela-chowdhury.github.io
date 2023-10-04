@@ -13,8 +13,8 @@
 <img src="images/kamela--chowdhury-portfolio-06.jpg?raw=true"/>
 <img src="images/kamela--chowdhury-portfolio-07.jpg?raw=true"/>
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[ItsOkay]([http://example.com/](http://itsokaybd.com/))
+<img src="images/kamela--chowdhury-portfolio-10.jpg?raw=true"/>
 
 ---
 
