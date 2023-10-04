@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+title: Kamela Chowdhury # title of portoflio owner
+logo: "/images/Kamela Chowdhury folio.png?raw=true" 
+description: > # short introduction about me
+  Hi, this is Kamela.  
   <br><br>
-  Second description 
+  Check out my past work examples. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/kamelachowdhury/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
