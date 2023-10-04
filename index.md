@@ -9,9 +9,9 @@
 <img src="images/kamela--chowdhury-portfolio-05.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[shishuPatth](https://www.shishupatth.com/)
+<img src="images/kamela--chowdhury-portfolio-06.jpg?raw=true"/>
+<img src="images/kamela--chowdhury-portfolio-07.jpg?raw=true"/>
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
