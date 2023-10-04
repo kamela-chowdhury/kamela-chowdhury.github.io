@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Custom WordPress Websites 
 
-[Project 1 Title](/sample_page)
+[ImageEditing](https://imageediting.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
