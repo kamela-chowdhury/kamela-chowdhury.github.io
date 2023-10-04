@@ -1,51 +1,45 @@
-## Developer Portfolio Landing Page Template
+# Portfolio
 
-### Introduction
+Welcome to my GitHub portfolio! This portfolio showcases my work, projects, and contributions in various domains. You can view this portfolio live at [(https://kamela-chowdhury.github.io/)].
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+## Table of Contents
 
-<img src="images/demo.gif?raw=true"/>
+- [About Me](#about-me)
+- [Projects](#projects)
+- [Skills](#skills)
+- [Contact](#contact)
+- [License](#license)
 
-### Installation
+## About Me
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+Hello! I'm Kamela Chowdhury, a passionate and creative Computer Science graduate based in Germany. I have a strong background in web development and am dedicated to solving real-world problems through innovative solutions.
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+You can learn more about me and my journey by connecting with me on [LinkedIn]((https://www.linkedin.com/in/kamelachowdhury/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projects
 
-### Markdown
+Here are some of the key projects that I've worked on:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Project 1: Custom WordPress website 
+- Description: As a Web Developer at Metrodesk, I developed and launched a custom WordPress site for imageediting.com. In this project, I developed a custom WordPress theme and two cusotm plugins to add desired functionalities. 
+- Key Technologies Used: WordPress, PHP, HTML, CSS, JavaScript.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Skills
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Contact
 
-**Bold** and _Italic_ and `Code` text
+- [LinkedIn](https://www.linkedin.com/in/kamelachowdhury/)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+If you have any inquiries, collaboration proposals, or just want to connect, please don't hesitate to reach out to me through any of the provided contact methods.
 
-### Roadmap
+## Credit
 
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
+This portfolio is based on a [Developer Portfolio Landing Page Template] (https://github.com/evanca/quick-portfolio). See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).  
 
-### References
+---
 
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+Thank you for visiting my portfolio! I'm excited to share my work with you, and I look forward to connecting and collaborating with like-minded individuals.
+
