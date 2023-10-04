@@ -13,7 +13,7 @@
 <img src="images/kamela--chowdhury-portfolio-06.jpg?raw=true"/>
 <img src="images/kamela--chowdhury-portfolio-07.jpg?raw=true"/>
 ---
-[ItsOkay]((http://itsokaybd.com/)
+[ItsOkay Bangladesh](http://itsokaybd.com/)
 <img src="images/kamela--chowdhury-portfolio-10.jpg?raw=true" width="600" height="400"/>
 
 ---
