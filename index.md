@@ -21,7 +21,7 @@
 ### Communications
 
 - [A PDF catalog of online training and webinars on the topics of NFC at NXP Semiconductors](https://www.nxp.com/docs/en/product-brief/NFC-TRAINING-AND-SUPPORT-CATALOG.pdf)
-- Facebook post wishing Women's Day on Mach 2018.([<img src="images/ItsOkayBDWomensDayFBpost2018.jpg?raw=true" width="600" height="400"/>](https://www.facebook.com/itsokaybd/photos/pb.100064762326960.-2207520000/1802677966701579/?type=3)) 
+- Facebook post wishing Women's Day on Mach 2018.[<img src="images/ItsOkayBDWomensDayFBpost2018.jpg?raw=true" width="600" height="400"/>](https://www.facebook.com/itsokaybd/photos/pb.100064762326960.-2207520000/1802677966701579/?type=3) 
 ---
 
 
