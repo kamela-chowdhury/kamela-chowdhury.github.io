@@ -9,7 +9,7 @@
 <img src="images/kamela--chowdhury-portfolio-05.jpg?raw=true"/>
 
 ---
-[shishuPatth](https://www.shishupatth.com/)
+[ShishuPatth](https://www.shishupatth.com/)
 <img src="images/kamela--chowdhury-portfolio-06.jpg?raw=true"/>
 <img src="images/kamela--chowdhury-portfolio-07.jpg?raw=true"/>
 ---
